@@ -3,5 +3,5 @@
 
 ## Introduction to Python for Data Science and Data Engineering
 
-| Tilte|Notebook Link|
-|--------|---------|
+| Tilte|Notebook| PDF|
+|--------|---------|---|
